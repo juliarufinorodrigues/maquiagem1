@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+Aqui voce encontra os melhores preços de maquiagem. 
 
-You can use the [editor on GitHub](https://github.com/juliarufinorodrigues/maquiagem1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nossa missão é te ajudar da melhor forma a ter auto- estima e variedade proporcionando bem estar e qualidade de vida.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aqui fazemos maquiagens tematicas, naturais, infantil e personalizadas.
 
-### Markdown
+ Vou deixar aqui alguns exemplos de maquigens **tematicas**. 
+ 
+ ![image](https://user-images.githubusercontent.com/108011496/185432908-4b59a8b9-5a46-44fd-a357-e654bbe4f8b6.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Exemplos de maquiagens **naturais**
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/108011496/185432711-d4ca4a04-f255-4a8f-b5cf-b3b4f7d36ae9.png)
 
-1. Numbered
-2. List
+Exemplos de maquiagens **infantil**
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/108011496/185433716-47bea264-5cfb-49d4-aa95-b2908406d2e1.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+exemplos de maquiagens **personalizadas** 
 
-### Jekyll Themes
+![image](https://user-images.githubusercontent.com/108011496/185434046-c277560b-1e57-445a-acb2-1b2272fd22d3.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliarufinorodrigues/maquiagem1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
